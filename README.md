@@ -1,9 +1,9 @@
 # Random mama tool
 Version 0.8.0  
-
+https://github.com/tetunori/Random-mama/assets/14086390/57b46d9e-0c17-4d50-8859-5dae24a09d1c
 
 # Description🖊️
-xxxx
+An application that displays Chinese tone symbols randomly.
 
 # Usage
 Click to shuffle.  
